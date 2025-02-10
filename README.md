@@ -22,7 +22,7 @@ Simple To-Do App
 
 
 
-![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f4dbc0e1-8eef-43a1-8477-de219c257ac6)
+![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/1d871c1b-1d11-41a0-a1ef-1fc11f37d6c5)
 
 
 
@@ -30,7 +30,7 @@ Simple To-Do App
 
 
 
-![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/1d871c1b-1d11-41a0-a1ef-1fc11f37d6c5)
+![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f4dbc0e1-8eef-43a1-8477-de219c257ac6)
 
 
 
