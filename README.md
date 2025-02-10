@@ -2,21 +2,27 @@
 
 Simple To-Do App
 
-- A To-Do app using flutter packages
-- in this project, i've used staggered_animations package for animations.
+- A to-do app using Flutter packages
+
+- In this project, I've used the staggered_animations package for animations.
+
 - shared_preferences package for reading and writing simple key-value pairs.
-- lottie package for rendering After Effects animations natively.
-- and finaly dart:convert package for converting between different data representations (Encode & Decode json files).
-- Application logo is the same with flutter(Flutter Default Logo), it will be change in the feture.
-- Here is some screenshots of project, hope you guys enjoy it and may the force be with YOU!.
 
-  ![photo_1_2025-02-10_19-18-18](https://github.com/user-attachments/assets/74ec4966-9392-4954-b06a-b1b398a9f22d)
+- Lottie package for rendering After Effects animations natively.
 
-![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/2b32429f-760c-4afb-a523-5be06f636420)
+- and finally the dart:convert package for converting between different data representations (encode & decode JSON files).
 
-![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/0a68fe6c-206d-44ad-9577-12457f01d5d0)
+- The application logo is the same as Flutter (the Flutter Default Logo); it will be changed in the future.
 
-![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f55c797a-49f4-4aee-a4a5-59b9a02c16b3)
+- Here are some screenshots of the project; hope you guys enjoy it, and may the force be with YOU!.
+
+  ![photo_1_2025-02-10_19-18-18](https://github.com/user-attachments/assets/74ec4966-9392-4954-b06a-b1b398a9f22d)      ![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/2b32429f-760c-4afb-a523-5be06f636420)
+
+![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/0a68fe6c-206d-44ad-9577-12457f01d5d0)        ![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f55c797a-49f4-4aee-a4a5-59b9a02c16b3)
+
+
+
+
 
 
 ## Getting Started
