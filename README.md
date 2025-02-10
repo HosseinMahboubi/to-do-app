@@ -26,11 +26,11 @@ Simple To-Do App
 
 
 
-![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/fadbcb64-cb0e-46e6-a8d9-f9342c3eaf47)
-
-
-
 ![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f4dbc0e1-8eef-43a1-8477-de219c257ac6)
+
+
+
+![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/fadbcb64-cb0e-46e6-a8d9-f9342c3eaf47)
 
 
 
