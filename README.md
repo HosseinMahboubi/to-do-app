@@ -16,6 +16,8 @@ Simple To-Do App
 
 - Here are some screenshots of the project; hope you guys enjoy it, and may the force be with YOU!.
 
+- P.S: It won't work on iOS and Linux. Sorry :(
+
   ![photo_1_2025-02-10_19-18-18](https://github.com/user-attachments/assets/74ec4966-9392-4954-b06a-b1b398a9f22d)      ![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/2b32429f-760c-4afb-a523-5be06f636420)
 
 ![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/0a68fe6c-206d-44ad-9577-12457f01d5d0)        ![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f55c797a-49f4-4aee-a4a5-59b9a02c16b3)
