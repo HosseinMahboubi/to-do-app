@@ -18,11 +18,19 @@ Simple To-Do App
 
 - P.S: It won't work on iOS and Linux. Sorry :(
 
-  ![photo_1_2025-02-10_19-18-18](https://github.com/user-attachments/assets/74ec4966-9392-4954-b06a-b1b398a9f22d)      ![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/2b32429f-760c-4afb-a523-5be06f636420)
-
-![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/0a68fe6c-206d-44ad-9577-12457f01d5d0)        ![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f55c797a-49f4-4aee-a4a5-59b9a02c16b3)
+![photo_1_2025-02-10_19-18-18](https://github.com/user-attachments/assets/cbd7b24e-3fb4-4c8c-8f54-8a63219691b3)
 
 
+
+![photo_2_2025-02-10_19-18-18](https://github.com/user-attachments/assets/f4dbc0e1-8eef-43a1-8477-de219c257ac6)
+
+
+
+![photo_3_2025-02-10_19-18-18](https://github.com/user-attachments/assets/fadbcb64-cb0e-46e6-a8d9-f9342c3eaf47)
+
+
+
+![photo_4_2025-02-10_19-18-18](https://github.com/user-attachments/assets/1d871c1b-1d11-41a0-a1ef-1fc11f37d6c5)
 
 
 
