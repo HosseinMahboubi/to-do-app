@@ -12,8 +12,6 @@ Simple To-Do App
 
 - and finally the dart:convert package for converting between different data representations (encode & decode JSON files).
 
-- The application logo is the same as Flutter (the Flutter Default Logo); it will be changed in the future.
-
 - Here are some screenshots of the project; hope you guys enjoy it, and may the force be with YOU!.
 
 - P.S: It won't work on iOS and Linux. Sorry :(
